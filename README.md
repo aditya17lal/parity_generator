@@ -19,8 +19,9 @@ Example:
 
 ## Layout
 
-Even Parity Generator:
-<img src='./layout_evenparity.jpg' alt='even_parity'>
+- Even Parity Generator:
+<br>
+<img src='./layout_evenparity.jpg' alt='even_parity' width=800px>
 
-Schematic (Even):
-<img src='./schematic_even.jpg' alt='even_schematic'>
+- Schematic (Even):
+<img src='./even_schematic.jpg' alt='even_schematic' width=800px>

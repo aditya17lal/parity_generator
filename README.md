@@ -20,7 +20,7 @@ Example:
 ## Layout
 
 Even Parity Generator:
-<img src='./layout_evenparity' alt='even_parity'>
+<img src='./layout_evenparity.jpg' alt='even_parity'>
 
 Schematic (Even):
-<img src='./schematic_even' alt='even_schematic'>
+<img src='./schematic_even.jpg' alt='even_schematic'>

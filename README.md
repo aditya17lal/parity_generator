@@ -22,9 +22,6 @@ Example:
 Even Parity Generator:
 <img src='./layout_evenparity' alt='even_parity'>
 
-Even Parity Generator:
-<img src='./layout_evenparity' alt='even_parity'>
-
 Schematic (Even):
 <img src='./schematic_even' alt='even_schematic'>
 

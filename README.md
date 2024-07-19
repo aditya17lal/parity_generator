@@ -17,13 +17,10 @@ Example:
 
 - **Microwind**: A software tool for designing and simulating digital, analog, and mixed-signal circuits at the transistor level.
 
-## Layouts
+## Layout
 
 Even Parity Generator:
 <img src='./layout_evenparity' alt='even_parity'>
 
 Schematic (Even):
-<img src='./schematic_even' alt='even_schematic'>
-
-Simulation (Even):
 <img src='./schematic_even' alt='even_schematic'>
